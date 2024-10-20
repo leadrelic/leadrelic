@@ -9,16 +9,15 @@
   </p>
   
   ---
-  
-  - 🛠️ **I’m currently working on:** [Dungeon Crawler](https://github.com/leadrelic/Dungeon-Crawler)
-  - 🌱 **I’m currently learning:** **Pygame**
-  - 🎓 **I have a Bachelor's in:** **Computer Science**
-  - 🔐 **I’m passionate about:** **Cybersecurity** and **Pen-Testing**
-  - 📧 **How to reach me:** **leadrelic@gmail.com**
 
- 
+  - 🛠️ **Currently working on:** [Dungeon Crawler](https://github.com/leadrelic/Dungeon-Crawler)
+  - 🌱 **Currently learning:** Pygame
+  - 🎓 **Educational background:** Bachelor's in Computer Science
+  - 🔐 **Passionate about:** Cybersecurity and Pen-Testing
+  - 📧 **Reach me at:** [leadrelic@gmail.com](mailto:leadrelic@gmail.com)
+
   ---
-  
+
   <h3 align="left">🌐 Connect with me:</h3>
   <p align="left">
     <a href="https://github.com/leadrelic" target="_blank">
@@ -46,7 +45,7 @@
   </p>
   
   ---
-  
+
   <h3 align="left">📊 Most Used Languages:</h3>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leadrelic&show_icons=true&locale=en&layout=compact&theme=radical" alt="leadrelic" />
@@ -55,5 +54,5 @@
 ---
 
 <p align="center">
-  Thanks for visiting! 😊 Have a great day!
+  Thank you for visiting! 😊 Have a fantastic day!
 </p>
