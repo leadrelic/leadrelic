@@ -9,11 +9,11 @@ I'm a passionate cybersecurity specialist and game developer with a focus on pen
 ## About Me
 
 - 🛠️ **Currently working on:** [Dungeon Crawler](https://github.com/leadrelic/Dungeon-Crawler) - A roguelike adventure game
-- 🎮 **Recent project:** Idle Hands - A hacker-themed idle/incremental game
+- 🎮 **Recent project:** Idle Hands (Currently private) - A hacker-themed idle/incremental game
 - 🌱 **Currently learning:** Pygame, Advanced Python Techniques, Security Automation
 - 🎓 **Education:** Bachelor's in Computer Science
 - 🔐 **Passionate about:** Cybersecurity, Penetration Testing, Game Development
-- 🏆 **Experience:** CTF competitions, SCADA network testing, Android app development
+- 🏆 **Experience:** CTF competitions, SCADA network testing
 
 ---
 
@@ -25,12 +25,6 @@ I'm a passionate cybersecurity specialist and game developer with a focus on pen
 - Procedural dungeon generation and turn-based combat
 - Character progression system with inventory management
 - Multiple enemy types and boss encounters
-
-**Idle Hands**
-- Hacker-themed idle game with terminal-style interface
-- Seven-tier job progression system (Script Kiddie to Elite Hacker)
-- Balanced upgrade system with hash rate mechanics
-- Evolving emoji-based character system
 
 ### Cybersecurity Tools
 **Penetration Testing Toolkit**
@@ -45,14 +39,6 @@ I'm a passionate cybersecurity specialist and game developer with a focus on pen
 - MQTT-based satellite control system exploitation
 - Industrial control protocol analysis
 - Network traffic analysis and regex pattern matching
-
-### Mobile Development
-**Android Calculator (UMGC CMSC 495)**
-- Production-quality Kotlin application with Jetpack Compose
-- Scientific functions, calculation history, memory operations
-- MVVM architecture with 95% code coverage
-- Multiple number systems (Binary, Octal, Hex)
-
 ---
 
 ## Skills & Technologies
