@@ -14,7 +14,6 @@
   - 🌱 **Currently learning:** Pygame
   - 🎓 **Educational background:** Bachelor's in Computer Science
   - 🔐 **Passionate about:** Cybersecurity and Pen-Testing
-  - 📧 **Reach me at:** [leadrelic@gmail.com](mailto:leadrelic@gmail.com)
 
   ---
 
