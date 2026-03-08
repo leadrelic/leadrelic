@@ -44,11 +44,4 @@ Modular CLI tool suite for penetration testing engagements:
 
 ---
 
-## GitHub Stats
-
-![Dakota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leadrelic&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leadrelic&layout=compact&theme=tokyonight)
-
----
-
 [![GitHub](https://img.shields.io/badge/GitHub-leadrelic-181717?style=for-the-badge&logo=github)](https://github.com/leadrelic)
