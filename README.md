@@ -1,47 +1,71 @@
-# Dakota 
+<div align="center">
 
-**Offensive Security | Penetration Testing | OSINT & Threat Intelligence**
+Offensive Security · OSINT · Threat Intelligence
 
-Cybersecurity professional specializing in penetration testing, OSINT, and threat intelligence analysis. Experienced in CTF competitions, SCADA/ICS security assessments, and building custom offensive security tooling. B.S. in Computer Science.
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-red?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-black?style=for-the-badge)
+![Threat Intel](https://img.shields.io/badge/Threat%20Intelligence-blueviolet?style=for-the-badge)
+![ICS/SCADA](https://img.shields.io/badge/ICS%2FSCADA-orange?style=for-the-badge)
 
----
 
-## Featured Work
+<br/>
 
-### [Pentester's Toolkit](https://github.com/leadrelic/Pentesters-ToolKit)
-Modular CLI tool suite for penetration testing engagements:
-- Network reconnaissance and enumeration (Nmap integration, Scapy)
-- Vulnerability assessment and credential testing
-- Encryption/decryption utilities and custom wordlist generation
-- Designed for repeatable, structured engagement workflows
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=650&height=220&lines=%24+whoami;cybersecurity+professional;%24+cat+about.txt;Penetration+testing%2C+OSINT%2C+and+threat+intel+analysis.;CTF+competitions%2C+SCADA%2FICS+assessments%2C+custom+tooling.;%24+cat+education.txt;B.S.+in+Computer+Science;%24+echo+%22status%22;breaking+things+on+purpose+so+others+don't+have+to.)](https://git.io/typing-svg)
 
-### CTF & ICS/SCADA Research
-- SCADA network penetration testing — BACnet device enumeration, industrial protocol analysis
-- MQTT-based C2 exploitation targeting satellite control systems
-- Multi-stage attack chains including CVE exploitation, lateral movement, and privilege escalation
-- Network traffic analysis and IOC extraction
+</div>
 
 ---
 
-## Core Skills
+## 🧰 Core Skills
 
-**Offensive Security** — Penetration Testing, Vulnerability Assessment, Red Team Tooling, Password Cracking, CTF Competitions
+<table>
+<tr>
+<td valign="top">
 
-**OSINT & Threat Intelligence** — Infrastructure Reconnaissance, Threat Actor Attribution, MITRE ATT&CK Mapping, IOC Development, YARA Rules
+**Offensive Security**
+- Penetration Testing
+- Vulnerability Assessment
+- Red Team Tooling
+- Password Cracking
+- CTF Competitions
 
-**ICS/SCADA Security** — BACnet, MQTT, Industrial Protocol Analysis, SCADA Network Assessment
+</td>
+<td valign="top">
 
-**Languages & Tools** — Python, Bash, C, Kotlin | Nmap, Scapy, Shodan, Censys, Wireshark
+**OSINT & Threat Intel**
+- Infrastructure Recon
+- Threat Actor Attribution
+- MITRE ATT&CK Mapping
+- IOC Development
+- YARA Rules
 
-**Development** — CLI Tool Development, Android Development (Kotlin/Jetpack Compose), Git
+</td>
+<td valign="top">
+
+**ICS/SCADA**
+- BACnet
+- MQTT
+- Industrial Protocol Analysis
+- SCADA Network Assessment
+
+</td>
+</tr>
+</table>
+
+**Languages & Tools** — Python, Bash, C, Kotlin · Nmap, Scapy, Shodan, Censys, Wireshark
+
+**Development** — CLI Tool Development · Android Development (Kotlin/Jetpack Compose) · Git
 
 ---
 
-## Side Projects
+## 🎮 Side Projects
 
-**Dungeon Crawler** — [Roguelike game](https://github.com/leadrelic/Dungeon-Crawler) built with Pygame. Procedural generation, turn-based combat, inventory systems.
-
+**[`Dungeon Crawler`](https://github.com/leadrelic/Dungeon-Crawler)** — Roguelike built with Pygame. Procedural generation, turn-based combat, inventory systems.
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-leadrelic-181717?style=for-the-badge&logo=github)](https://github.com/leadrelic)
+<div align="center">
+
+*Views expressed here are personal and independent of any employer.*
+
+</div>
