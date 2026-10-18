@@ -15,38 +15,11 @@ B.S. in Computer Science
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/leadrelic/warrant">warrant</a></h3>
-<p>Pentest toolkit that checks every tool run against engagement scope, keeps a tamper-evident audit log, and turns output into findings. CLI and web GUI.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/leadrelic/residue">residue</a></h3>
-<p>Mines attacker open directories for IPs, domains, credentials, tokens, keys and wallets, ready for attribution pivots.</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/leadrelic/dirsnatch">dirsnatch</a></h3>
-<p>Downloads open directories for analysis, with path-traversal protection and a download manifest.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/leadrelic/nullroute">nullroute</a></h3>
-<p>Interactive nmap shell with a VPN check and argv-only execution. No shell, no eval.</p>
-
-</td>
-</tr>
-</table>
-
-**Also:** [Dungeon Crawler](https://github.com/leadrelic/Dungeon-Crawler), a Pygame roguelike with procedural generation and turn-based combat.
+- **[warrant](https://github.com/leadrelic/warrant)**: pentest toolkit that checks every tool run against engagement scope, keeps a tamper-evident audit log, and turns output into findings. CLI and web GUI.
+- **[residue](https://github.com/leadrelic/residue)**: mines attacker open directories for IPs, domains, credentials, tokens, keys and wallets, ready for attribution pivots.
+- **[dirsnatch](https://github.com/leadrelic/dirsnatch)**: downloads open directories for analysis, with path-traversal protection and a download manifest.
+- **[nullroute](https://github.com/leadrelic/nullroute)**: interactive nmap shell with a VPN check and argv-only execution. No shell, no eval.
+- **[Dungeon Crawler](https://github.com/leadrelic/Dungeon-Crawler)**: Pygame roguelike with procedural generation and turn-based combat.
 
 <div align="center">
 
