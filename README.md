@@ -46,7 +46,7 @@ B.S. in Computer Science
 </tr>
 </table>
 
-<sub>Also: [Dungeon Crawler](https://github.com/leadrelic/Dungeon-Crawler), a Pygame roguelike with procedural generation and turn-based combat.</sub>
+**Also:** [Dungeon Crawler](https://github.com/leadrelic/Dungeon-Crawler), a Pygame roguelike with procedural generation and turn-based combat.
 
 <div align="center">
 
