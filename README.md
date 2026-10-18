@@ -15,11 +15,20 @@ B.S. in Computer Science
 
 ## Projects
 
-- **[warrant](https://github.com/leadrelic/warrant)**: pentest toolkit that checks every tool run against engagement scope, keeps a tamper-evident audit log, and turns output into findings. CLI and web GUI.
-- **[residue](https://github.com/leadrelic/residue)**: mines attacker open directories for IPs, domains, credentials, tokens, keys and wallets, ready for attribution pivots.
-- **[dirsnatch](https://github.com/leadrelic/dirsnatch)**: downloads open directories for analysis, with path-traversal protection and a download manifest.
-- **[nullroute](https://github.com/leadrelic/nullroute)**: interactive nmap shell with a VPN check and argv-only execution. No shell, no eval.
-- **[Dungeon Crawler](https://github.com/leadrelic/Dungeon-Crawler)**: Pygame roguelike with procedural generation and turn-based combat.
+### [warrant](https://github.com/leadrelic/warrant)
+Pentest toolkit that checks every tool run against engagement scope, keeps a tamper-evident audit log, and turns output into findings. CLI and web GUI.
+
+### [residue](https://github.com/leadrelic/residue)
+Mines attacker open directories for IPs, domains, credentials, tokens, keys and wallets, ready for attribution pivots.
+
+### [dirsnatch](https://github.com/leadrelic/dirsnatch)
+Downloads open directories for analysis, with path-traversal protection and a download manifest.
+
+### [nullroute](https://github.com/leadrelic/nullroute)
+Interactive nmap shell with a VPN check and argv-only execution. No shell, no eval.
+
+### [Dungeon Crawler](https://github.com/leadrelic/Dungeon-Crawler)
+Pygame roguelike with procedural generation and turn-based combat.
 
 <div align="center">
 
