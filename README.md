@@ -27,7 +27,7 @@ Downloads open directories for analysis, with path-traversal protection and a do
 ### [nullroute](https://github.com/leadrelic/nullroute)
 Interactive nmap shell with a VPN check and argv-only execution. No shell, no eval.
 
-### [Crawlspace](https://github.com/leadrelic/crawlspace)
+### [Delve & Dagger](https://github.com/leadrelic/delve-and-dagger)
 Turn-based roguelike in Pygame: 15 floors, three zones, vault puzzles, and a Lich at the bottom.
 
 <div align="center">
