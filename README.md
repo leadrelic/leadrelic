@@ -21,14 +21,12 @@ B.S. in Computer Science
 
 <h3><a href="https://github.com/leadrelic/warrant">warrant</a></h3>
 <p>Pentest toolkit that checks every tool run against engagement scope, keeps a tamper-evident audit log, and turns output into findings. CLI and web GUI.</p>
-<p><img src="https://img.shields.io/badge/scope-39FF14?style=flat-square&labelColor=000000" alt="scope"> <img src="https://img.shields.io/badge/audit-39FF14?style=flat-square&labelColor=000000" alt="audit"> <img src="https://img.shields.io/badge/findings-39FF14?style=flat-square&labelColor=000000" alt="findings"> <img src="https://img.shields.io/github/stars/leadrelic/warrant?style=flat-square&color=39FF14&labelColor=000000" alt="stars"></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/leadrelic/residue">residue</a></h3>
 <p>Mines attacker open directories for IPs, domains, credentials, tokens, keys and wallets, ready for attribution pivots.</p>
-<p><img src="https://img.shields.io/badge/OSINT-39FF14?style=flat-square&labelColor=000000" alt="OSINT"> <img src="https://img.shields.io/badge/attribution-39FF14?style=flat-square&labelColor=000000" alt="attribution"> <img src="https://img.shields.io/badge/IOCs-39FF14?style=flat-square&labelColor=000000" alt="IOCs"> <img src="https://img.shields.io/github/stars/leadrelic/residue?style=flat-square&color=39FF14&labelColor=000000" alt="stars"></p>
 
 </td>
 </tr>
@@ -37,14 +35,12 @@ B.S. in Computer Science
 
 <h3><a href="https://github.com/leadrelic/dirsnatch">dirsnatch</a></h3>
 <p>Downloads open directories for analysis, with path-traversal protection and a download manifest.</p>
-<p><img src="https://img.shields.io/badge/threat--intel-39FF14?style=flat-square&labelColor=000000" alt="threat--intel"> <img src="https://img.shields.io/badge/collection-39FF14?style=flat-square&labelColor=000000" alt="collection"> <img src="https://img.shields.io/github/stars/leadrelic/dirsnatch?style=flat-square&color=39FF14&labelColor=000000" alt="stars"></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/leadrelic/nullroute">nullroute</a></h3>
 <p>Interactive nmap shell with a VPN check and argv-only execution. No shell, no eval.</p>
-<p><img src="https://img.shields.io/badge/nmap-39FF14?style=flat-square&labelColor=000000" alt="nmap"> <img src="https://img.shields.io/badge/recon-39FF14?style=flat-square&labelColor=000000" alt="recon"> <img src="https://img.shields.io/github/stars/leadrelic/nullroute?style=flat-square&color=39FF14&labelColor=000000" alt="stars"></p>
 
 </td>
 </tr>
