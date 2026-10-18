@@ -27,8 +27,8 @@ Downloads open directories for analysis, with path-traversal protection and a do
 ### [nullroute](https://github.com/leadrelic/nullroute)
 Interactive nmap shell with a VPN check and argv-only execution. No shell, no eval.
 
-### [Delve & Dagger](https://github.com/leadrelic/delve-and-dagger)
-Turn-based roguelike in Pygame: 15 floors, three zones, vault puzzles, and a Lich at the bottom.
+### [Delve & Dagger](https://delve.kordvale.com)
+Turn-based roguelike you can play in your browser: 15 floors, vault puzzles, a skill tree, and a Lich at the bottom.
 
 <div align="center">
 
